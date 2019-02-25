@@ -27,4 +27,32 @@ print(x)
   - Variable name are case-sensitive.
 
 ### Output Variables 
+Python **print** is oftern used to output variables.  
+To combine both variable and text, use + character
+```python
+x = 'awesome'
+print("Python is " + x)
+```
+ 
+ Also use, **+** character to add a variable to another variable
+ ```python
+ x = "Python is "
+ y = "awesome"
+ z = x+ y
+ print(z)
+ ```
+ 
+ **+** character works as a mathematical operator
+ ```python
+ x = 5
+ y = 10
+ print(x + y)
+ ```
+ 
+ **+** acts as a mathematical operator
+ ```python
+ x = 5
+ y =10
+ print(x + y)
+ ```
  
