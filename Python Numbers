@@ -1,0 +1,62 @@
+# Python Numbers
+
+There are 3 numeric types in Python:
+* int
+* float
+* complex
+
+Type of variable is assigned when a value is assigned to it.
+
+Example :
+```python
+x = 1  # int 
+y = 2.8 # float
+z = 1j # complex
+```
+
+**type()** this method is used to find the type of the object. 
+```python
+print(type(x))
+print(type(y))
+print(type(z))
+```
+
+### Int
+* Whole number 
+* Positive or negative number
+* Number does not have decimal 
+* Numbers of unlimited length
+```python
+x = 1
+y = 35656222554887711
+z = -3255522
+
+print(type(x))
+print(type(y))
+print(type(x))
+```
+
+### Float
+* Positive or negative number with decimal
+* Can be a scientific number with an 'e' to indicate the power of 10.
+```python
+x = 1.10
+y = 1.0
+z = -35.59
+
+print(type(x))
+print(type(y))
+print(type(z))
+```
+
+### Complex
+* Complex numbers are written with a 'j' as the imaginary part:
+```python
+x = 3+ 5j
+y = 5j
+z = -5j
+
+print(type(x))
+print(type(y))
+print(type(z))
+```
