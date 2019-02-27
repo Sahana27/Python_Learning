@@ -6,3 +6,5 @@
 3. [Python Syntax](https://github.com/Sahana27/Python_Learning/blob/master/Python%20Syntax.md)
 4. [Python Variables](https://github.com/Sahana27/Python_Learning/blob/master/Python%20Variables.md)
 5. [Python Numbers](https://github.com/Sahana27/Python_Learning/blob/master/Python%20Numbers)
+6. [Python Type Casting](https://github.com/Sahana27/Python_Learning/blob/master/Python%20Casting.md)
+7. [Pythin String](https://github.com/Sahana27/Python_Learning/blob/master/Python%20Strings.md)
